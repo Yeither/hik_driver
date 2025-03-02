@@ -1,6 +1,9 @@
 # hik_driver 
 > 海康相机采图
-使用例子如下，设置保存地址、曝光、增益、是否自动采图
+<br>感谢[穆哥](https://github.com/GnehSizum)
+
+<br>使用例子如下，设置保存地址、曝光、增益、是否自动采图
+
 
   ` python3.8 kaca.py --save_directory "saved_images" --exposure_time 20000 --gain 18.5 --auto_capture True    `
 
